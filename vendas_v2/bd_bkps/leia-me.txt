@@ -1,0 +1,10 @@
+Utilizando uma interface para o MySQL de sua preferência (Workbench ou 
+PHPMyAdmin), crie uma nova base de dados (schema), preferencialmente
+com o nome bd_vendas.
+Após criado, ative este schema (para isto, no Workbench, basta dar duplo
+click no nome do schema, ele ficará em Negrito).
+Em seguida, abra o arquivo de backup mais recente (presente nesta pasta) e 
+execute.
+
+Após realizar esta operação, edite o arquivo conecta.php com as credenciais
+corretas do seu banco de dados.
